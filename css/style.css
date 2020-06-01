@@ -7,7 +7,6 @@ body{
     padding: 0;
 }
 
-
 img {
 width: 100%;
 }
@@ -15,3 +14,12 @@ width: 100%;
 .container{
     margin: auto;
 }
+
+/* COMON CLASSES */
+.primary-text{
+    color: #56a79a;
+}
+.primary-background{
+    background: #56a79a;
+}
+
