@@ -1,16 +1,14 @@
 # Development Strategy
 
-> `name-of-project`
+> ### `app-theme`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- This project was built for the purpose of learning about `git branching`,`git issues`, `git workflow`, `css flexbos grid` and `css font awesome.
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://user-images.githubusercontent.com/59515791/83363620-0fe2c680-a39b-11ea-96c2-3cfa6e3022f5.png)
 
 ## 0. Set-Up
 
