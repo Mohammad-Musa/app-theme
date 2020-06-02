@@ -11,14 +11,22 @@
 ![wireframe](https://user-images.githubusercontent.com/59515791/83363620-0fe2c680-a39b-11ea-96c2-3cfa6e3022f5.png)
 
 ## 0. Set-Up
+## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+__As a fellow developer I can see the prepared repository__.  
+__As a site visitor, I can see an empty site at the correct URL__.
 
-### Repo
 
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
+### Repo: `master branch`
+
+1. This [Repository](https://github.com/Mohammad-Musa/app-theme) generated from this [template](https://github.com/HackYourFutureBelgium/w3-validation-template).
+1. Clone the generated repository.
+1. Edit the [development-strategy](https://github.com/Mohammad-Musa/app-theme/blob/master/development-strategy.md) and adding a [Wireframe](https://user-images.githubusercontent.com/59515791/82772089-694c7200-9e3e-11ea-8238-6973fa5ec9a2.png) with that file.  
+1. Edit the README file on a new branch called `readme` and `issue #1`. 
+1. Create new two folders one called css includes three files: (style.css, font-awesome.css & flexboxgrid.css) and the other folder called images includes the images that we will use with this project. 
+1. Merge the changes. 
+1. Push the changes.
+1. turn on GitHub Pages
 
 ## 1. __
 
