@@ -23,10 +23,50 @@ __As a site visitor, I can see an empty site at the correct URL__.
 1. Clone the generated repository.
 1. Edit the [development-strategy](https://github.com/Mohammad-Musa/app-theme/blob/master/development-strategy.md) and adding a [Wireframe](https://user-images.githubusercontent.com/59515791/82772089-694c7200-9e3e-11ea-8238-6973fa5ec9a2.png) with that file.  
 1. Edit the README file on a new branch called `readme` and `issue #1`. 
-1. Create new two folders one called css includes three files: (style.css, font-awesome.css & flexboxgrid.css) and the other folder called images includes the images that we will use with this project. 
+1. Create new two folders one called css includes three files: (style.css, font-awesome.css & flexboxgrid.css) and the other folder called images includes the images that we will use with this project. The branch for this step called `adding-folders`
+and `issue #3`.
 1. Merge the changes. 
 1. Push the changes.
 1. turn on GitHub Pages
+
+## 1. Web site Title
+
+__As a fellow developer I can see the links for css style,font-awesome & flexboxgrid inside the head__.   
+__As a site visitor I want to know the page name and and when I search in any search engine for such a contact to get this sit as a suggestion__.
+
+### Branches:
+
+1. This user story was developed on a branch called `head`.
+2. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- Add a reference to the files in the css folder.
+- Meta tags for title and keywords and other related meta tags inside the head element.
+
+### Github
+- Create issue #5
+
+## 2. ## 2. Company logo & Nav bar
+
+__As a site visitor I want to see the company logo and to navagate to the next page__.
+
+### Branches:
+
+1. This user story was developed on branches called `header`& `header-styling`.
+2. They were merged to `master` when the feature was finished.
+
+### HTML
+
+- Add a logo and nav inside the header tag.
+
+### CSS
+- Add style to the header tag.
+
+### Github
+- Create two issues, issue #7 to add the header and issue #31 to style it.
+
+
 
 ## 1. __
 
