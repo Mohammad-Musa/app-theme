@@ -216,6 +216,10 @@ __As a site visitor I need afriendly and direct way to contact the company__.
 ### Github
 - Create two issues, `issue #23` to add the showcase and `issue #45` to style it.  
 
+# Finishing Touches
+  - Create a new branch called `media-queries` to make this site responds to the needs and capabilities of the device they are viewed on and raise an issue for this branch, `issue #47`
+  - Validate the codes and fix all the errors.
+  - Add a complete [README](https://github.com/Mohammad-Musa/app-theme/blob/master/README.md) file.
 
 
 
@@ -226,39 +230,3 @@ __As a site visitor I need afriendly and direct way to contact the company__.
 
 
 
-
-
-
-
-
-
-
-## 1. __
-
-__full user story description__
-
-### Repo
-
-what branch(es) did you work on?
-
-### HTML
-
-what did you change in the HTML and why?
-
-### CSS
-
-what did you change in the CSS and why?
-
-## 2. ...
-
-...
-
-...
-
-## Finishing Touches
-
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
