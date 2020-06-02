@@ -154,6 +154,31 @@ __As a site visitor I want to see the copyrights and the creation date__.
 ### Github
 - Create two issues, `issue #17` to add the showcase and `issue #41` to style it.
 
+## 7. About
+
+__As a site visitor I want to have more information about this company's buisness__.
+
+### Branches: 
+
+1. This user story was developed on branches called `about`.
+2. They were merged to `master` when the features were finished.
+
+### HTML
+
+- Create a new html page called about and past the codes from index.html to it. After that add some changes. 
+  - `about branch`.
+
+### CSS
+- No style was added to the about page.
+
+### Github
+- Create an issue, `issue #19`.
+
+
+
+
+
+
 
 
 
