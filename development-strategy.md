@@ -45,7 +45,7 @@ __As a site visitor I want to know the page name and and when I search in any se
 - Meta tags for title and keywords and other related meta tags inside the head element.
 
 ### Github
-- Create issue #5
+- Create `issue #5`
 
 ## 2. Company logo & Nav bar
 
@@ -67,7 +67,7 @@ __As a site visitor I want to see the company logo and to navagate to the next p
 
 
 ### Github
-- Create two issues, issue #7 to add the header and issue #31 to style it.
+- Create two issues, `issue #7` to add the header and `issue #31` to style it.
 
 ## 3. Introduction
 
@@ -84,10 +84,57 @@ __As a site visitor I want to read a brief introduction about this websit__.
   - `showcase branch`.
 
 ### CSS
-- Add style to the header tag.
+- Style the showcase tag and add an img as a background.    
+  - `showcase-styling branch`.
 
 ### Github
-- Create two issues, issue #7 to add the header and issue #31 to style it.
+- Create two issues, `issue #9` to add the showcase and `issue #33` to style it.
+
+## 4. Introduce the company activities
+
+__As a site visitor I want to know about the core business of this company__.
+
+### Branches:
+
+1. This user story was developed on branches called `features`& `info-section` for html codes and  `features-styling` & `info-section-styling` to style these two sections
+2. They were merged to `master` when the feature was finished.
+
+### HTML
+
+- Add brief texts with bootstrap icona and an image to introduce the core business activeties.  
+  - `features`& `info-section`..
+
+### CSS
+- Style the showcase tag and add an img as a background.      
+  - `features-styling` & `info-section-styling`
+
+### Github
+- Create four issues, `issue #11 & #13` to add the html codes and `issue #35 & #37` to style them.  
+
+## 5. Contact
+
+__As a site visitor I want to read a brief introduction about this websit__.
+
+### Branches:
+
+1. This user story was developed on branches called `showcase`& `showcase-styling`.
+2. They were merged to `master` when the feature was finished.
+
+### HTML
+
+- Add brief text to introduce this page inside a showcase tag.  
+  - `showcase branch`.
+
+### CSS
+- Style the showcase tag and add an img as a background.    
+  - `showcase-styling branch`.
+
+### Github
+- Create two issues, `issue #9` to add the showcase and `issue #33` to style it.
+
+
+
+
 
 
 
