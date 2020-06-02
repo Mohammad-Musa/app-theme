@@ -105,7 +105,7 @@ __As a site visitor I want to know about the core business of this company__.
   - `features`& `info-section`..
 
 ### CSS
-- Style the showcase tag and add an img as a background.      
+- Style the two sections and add boostrap icons and an image.      
   - `features-styling` & `info-section-styling`
 
 ### Github
@@ -113,24 +113,24 @@ __As a site visitor I want to know about the core business of this company__.
 
 ## 5. Contact
 
-__As a site visitor I want to read a brief introduction about this websit__.
+__As a site visitor I want to check if there is a way to receive information and updates and how can I contact this company__.
 
 ### Branches:
 
-1. This user story was developed on branches called `showcase`& `showcase-styling`.
+1. This user story was developed on branches called `company-section`& `company-section-styling`.
 2. They were merged to `master` when the feature was finished.
 
 ### HTML
 
-- Add brief text to introduce this page inside a showcase tag.  
-  - `showcase branch`.
+- Add input and button tags to enable the visiter to make a subscribe and add how to contact the company.  
+  - `company-section branch`.
 
 ### CSS
-- Style the showcase tag and add an img as a background.    
-  - `showcase-styling branch`.
+- Style the company section.    
+  - `company-section-styling branch`.
 
 ### Github
-- Create two issues, `issue #9` to add the showcase and `issue #33` to style it.
+- Create two issues, `issue #15` to add the showcase and `issue #39` to style it.
 
 
 
