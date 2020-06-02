@@ -132,6 +132,27 @@ __As a site visitor I want to check if there is a way to receive information and
 ### Github
 - Create two issues, `issue #15` to add the showcase and `issue #39` to style it.
 
+## 6. Copyrights and Creation date
+
+__As a site visitor I want to see the copyrights and the creation date__.
+
+### Branches: 
+
+1. This user story was developed on branches called `footer`& `footer-styling`.
+2. They were merged to `master` when the features were finished.
+
+### HTML
+
+- Add copyrights and creation date as a text inside a footer tag.
+  - `footer branch`.
+
+### CSS
+- Style the footer tag.
+  - `footer-styling branch`.
+
+
+### Github
+- Create two issues, `issue #17` to add the showcase and `issue #41` to style it.
 
 
 
