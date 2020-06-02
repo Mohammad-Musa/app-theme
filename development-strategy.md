@@ -47,7 +47,7 @@ __As a site visitor I want to know the page name and and when I search in any se
 ### Github
 - Create issue #5
 
-## 2. ## 2. Company logo & Nav bar
+## 2. Company logo & Nav bar
 
 __As a site visitor I want to see the company logo and to navagate to the next page__.
 
@@ -58,13 +58,44 @@ __As a site visitor I want to see the company logo and to navagate to the next p
 
 ### HTML
 
-- Add a logo and nav inside the header tag.
+- Add a logo and nav inside the header tag.  
+  - `header branch`
+
+### CSS
+- Add style to the header tag. 
+  - `header-styling branch`
+
+
+### Github
+- Create two issues, issue #7 to add the header and issue #31 to style it.
+
+## 3. Introduction
+
+__As a site visitor I want to read a brief introduction about this websit__.
+
+### Branches:
+
+1. This user story was developed on branches called `showcase`& `showcase-styling`.
+2. They were merged to `master` when the feature was finished.
+
+### HTML
+
+- Add brief text to introduce this page inside a showcase tag.  
+  - `showcase branch`.
 
 ### CSS
 - Add style to the header tag.
 
 ### Github
 - Create two issues, issue #7 to add the header and issue #31 to style it.
+
+
+
+
+
+
+
+
 
 
 
