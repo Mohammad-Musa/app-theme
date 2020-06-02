@@ -150,7 +150,6 @@ __As a site visitor I want to see the copyrights and the creation date__.
 - Style the footer tag.
   - `footer-styling branch`.
 
-
 ### Github
 - Create two issues, `issue #17` to add the showcase and `issue #41` to style it.
 
@@ -174,6 +173,48 @@ __As a site visitor I want to have more information about this company's buisnes
 ### Github
 - Create an issue, `issue #19`.
 
+
+## 8. Services 
+
+__As a site visitor I to see details regarding the services which offered by this company__.
+
+### Branches: 
+
+1. This user story was developed on branches called `services-page`& `services-page-styling`.
+2. They were merged to `master` when the features were finished.
+
+### HTML
+
+- Add sections to provide more details about this company's services.
+  - `services-page branch`.
+
+### CSS
+- Style the services page.
+  - `services-page-styling branch`.
+
+### Github
+- Create two issues, `issue #21` to add the showcase and `issue #43` to style it.  
+
+## 9. Contact  
+
+__As a site visitor I need afriendly and direct way to contact the company__.
+
+### Branches: 
+
+1. This user story was developed on branches called `contac-page`& `contact-page-styling`.
+2. They were merged to `master` when the features were finished.
+
+### HTML
+
+- Add form to enable the visitor to contat the company.
+  - `contact-page branch`.
+
+### CSS
+- Style the contact page.
+  - `contac-page-styling branch`.
+
+### Github
+- Create two issues, `issue #23` to add the showcase and `issue #45` to style it.  
 
 
 
